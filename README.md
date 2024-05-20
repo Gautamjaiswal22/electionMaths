@@ -1,24 +1,12 @@
-# chunavganit
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
 # ChunavGanit
 
 ChunavGanit is a mobile application designed to streamline the process of data management and analytics during voting at polling booths. This app is tailored for staff members who need to perform specific calculations on recorded data and send analytical reports to higher authorities at regular intervals, typically every hour or two. The app ensures efficient data handling, real-time calculations, and seamless communication, all backed by robust cloud storage.
+
+![WhatsApp Image 2024-05-20 at 1 34 46 PM](https://github.com/Gautamjaiswal22/electionMaths/assets/72147394/a9b94e42-fc03-4f8f-96a5-aacf78bdd97e)
+![WhatsApp Image 2024-05-20 at 1 34 46 PM (1)](https://github.com/Gautamjaiswal22/electionMaths/assets/72147394/f47f6708-fdb7-4e15-9367-471c16244798)
+![WhatsApp Image 2024-05-20 at 1 34 47 PM](https://github.com/Gautamjaiswal22/electionMaths/assets/72147394/c24552f1-530d-45ee-b60b-2c3b7f285eab)
+![WhatsApp Image 2024-05-20 at 1 34 47 PM (1)](https://github.com/Gautamjaiswal22/electionMaths/assets/72147394/5953c6d0-422f-48a9-8716-a9e7f36f2c52)
+
 
 ## Features
 
